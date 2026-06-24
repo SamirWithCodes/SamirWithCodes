@@ -23,7 +23,7 @@ I believe that the future of biology lies in computational analysis, and I use m
 
 ### 🚀 Projects I Have Built:
 
-* 💻 **[Student Database Management System](https://github.com/SamirWithCodes/Student-Database-Management-System)**  
+* 💻 **[Student Database Management System](https://github.com/SamirWithCodes/Student-Database-Management-System.)**  
   A menu-driven C program using an *Array of Structures* to efficiently manage, display, and search student records.
 
 * 👨‍👩‍👦 **[Mom-Dad-site](https://github.com/SamirWithCodes/Mom-Dad-site)**  
