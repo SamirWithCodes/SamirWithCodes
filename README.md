@@ -29,6 +29,9 @@ I believe that the future of biology lies in computational analysis, and I use m
 * 👨‍👩‍👦 **[Mom-Dad-site](https://github.com/SamirWithCodes/Mom-Dad-site)**  
   A heartwarming anniversary celebration website built with HTML and CSS, fully hosted and live on GitHub Pages.
 
+* 🎨 **[Efforts-site](https://github.com/SamirWithCodes/Efforts-site)**  
+  A creative and responsive web page showcasing media embedding with audio background playback, images, and smooth HTML/CSS layout.
+
 ---
 
 ### 📊 My GitHub Stats:
