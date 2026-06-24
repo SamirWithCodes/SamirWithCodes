@@ -32,6 +32,8 @@ I believe that the future of biology lies in computational analysis, and I use m
 * 🎨 **[Efforts-site](https://github.com/SamirWithCodes/Efforts-site)**  
   A creative and responsive web page showcasing media embedding with audio background playback, images, and smooth HTML/CSS layout.
 
+* 🧬 [DNA-Sequencing-Analyzer](https://github.com/SamirWithCodes/dna-sequencing-analyzer)
+  A Python tool for molecular biology labs to analyze DNA sequences, calculate GC-content, and perform transcription/translation.
 ---
 
 ### 📊 My GitHub Stats:
