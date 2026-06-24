@@ -8,7 +8,7 @@ I believe that the future of biology lies in computational analysis, and I use m
 * 🌱 **I'm currently learning:** Advanced Python data analysis and Generative AI.
 * 🤝 **I'm looking to collaborate on:** Bioinformatics projects, lab data analysis, and open-source biology tools.
 * 🏆 **Certifications:** Microsoft Generative AI, Claude Code in Action, and AI Fluency.
-* 📬 **How to reach me:** [samirbhaduri81@gmail.com](mailto:samirbhaduri81@gmail.com) | [LinkedIn](https://linkedin.com/in/samir-bhaduri) *(নোট: এখানে তোমার আসল লিঙ্কটি বসিয়ে নিতে পারো)*
+* 📬 **How to reach me:** [samirbhaduri81@gmail.com](mailto:samirbhaduri81@gmail.com) | [LinkedIn](https://linkedin.com/in/samir-bhaduri) 
 
 ---
 
