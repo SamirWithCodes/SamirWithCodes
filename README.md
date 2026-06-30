@@ -21,7 +21,12 @@ I believe that the future of biology lies in computational analysis, and I use m
 
 ---
 
+---
+
 ### 🚀 Projects I Have Built:
+
+* 🧮 **[Simple Calculator in C](https://github.com/SamirWithCodes/simple-calculator-in-c)**  
+  A lightweight, menu-driven C program that performs basic arithmetic operations with clear input handling.
 
 * 💻 **[Student Database Management System](https://github.com/SamirWithCodes/Student-Database-Management-System.)**  
   A menu-driven C program using an *Array of Structures* to efficiently manage, display, and search student records.
@@ -32,8 +37,9 @@ I believe that the future of biology lies in computational analysis, and I use m
 * 🎨 **[Efforts-site](https://github.com/SamirWithCodes/Efforts-site)**  
   A creative and responsive web page showcasing media embedding with audio background playback, images, and smooth HTML/CSS layout.
 
-* 🧬 [DNA-Sequencing-Analyzer](https://github.com/SamirWithCodes/dna-sequencing-analyzer)
+* 🧬 **[DNA-Sequencing-Analyzer](https://github.com/SamirWithCodes/dna-sequencing-analyzer)**  
   A Python tool for molecular biology labs to analyze DNA sequences, calculate GC-content, and perform transcription/translation.
+
 ---
 
 ### 📊 My GitHub Stats:
